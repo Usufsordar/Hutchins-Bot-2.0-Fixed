@@ -11,7 +11,7 @@ module.exports = {
   cooldowns: 8,
 
     onLaunch: async function ({ api, event }) {
-    const imageUrl = "https://i.postimg.cc/vZPSvwrj/KsBpoIu.png";
+    const imageUrl = "https://i.imgur.com/7I0lQf6.jpeg";
     const imagePath = path.join(__dirname, 'cache', 'ownerInfo.png');
 
     fs.mkdirSync(path.dirname(imagePath), { recursive: true });
