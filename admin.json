@@ -1,16 +1,16 @@
 {
-  "prefix": "-",
+  "prefix": "/",
   "adminUIDs": [
-   "100052127176289"
+   "100071880593545"
   ],
   "moderatorUIDs": [
-    "100052127176289",
+    "100071880593545",
     "",
     ""
   ],
-  "botName": "Ayan👑✨",
-  "ownerName": "Ayan Alvi",
-  "facebookLink": "https://www.facebook.com/ayan.alvi.6?mibextid=ZbWKwL",
+  "botName": "𝐀𝐌𝐈𝐍𝐔𝐋-𝐁𝐎𝐓",
+  "ownerName": "𝗔𝗺𝗶𝗻𝘂𝗹 𝗦𝗼𝗿𝗱𝗮𝗿",
+  "facebookLink": "https://www.facebook.com/br4nd.abir.your.next.bf.jan",
   "resend": false,
   "notilogs": true,
   "appstate": "./appstate.json",
